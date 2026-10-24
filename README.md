@@ -1,161 +1,222 @@
-# pySupply — Inventory & Supplier Management Platform
+# pySupply | Inventory & Supplier Management System
 
-**Python · SQLite · Inventory Control · Procurement · Supplier Management · Employee Directory · Responsive Web UI**
+**Python | SQLite | HTML | CSS | JavaScript | Inventory Management**
 
-> **Portfolio disclosure:** This project uses a fictional **pySupply** organization and entirely synthetic people, inventory, suppliers and orders. The `@pysupply.com` email addresses are invented examples for this demonstration. This app does **not** send email, and ownership of the `pysupply.com` domain is not claimed.
+## About My Project
 
-## Overview
+I developed **pySupply**, a web-based Inventory & Supplier Management System designed to simplify inventory operations, supplier management, procurement tracking, and employee record management.
 
-pySupply is a full-stack inventory and supplier management demonstration built with **only Python's standard library**, SQLite and vanilla HTML/CSS/JavaScript. It provides a polished local web workspace for tracking products, suppliers, stock movements, purchase orders and employee records, with role checks and an audit trail.
+The main objective of this project was to build a centralized platform where businesses can efficiently manage their products, monitor stock availability, maintain supplier information, and track purchase orders.
 
-The application was rebuilt from the earlier Inventory & Supplier Management project to **remove SQLAlchemy, Alembic, FastAPI, Argon2, Docker and MySQL runtime dependencies**. Those packages used compiled DLL extensions that were blocked by Windows Application Control on the development computer. The new edition runs directly from `python run.py` without using `pip`.
+I developed the application using Python, SQLite, HTML, CSS, and JavaScript, focusing on database management, backend functionality, responsive UI design, and practical business workflows.
 
-### What a recruiter can explore
+The project uses fictional pySupply company data for demonstration and portfolio purposes.
 
-- **Overview dashboard:** summary cards, inventory valuation, stock levels, product distribution, purchase-order pipeline and low-stock alerts
-- **Inventory:** add, edit, search and deactivate products; define reorder points and prices
-- **Suppliers:** record vendor information and link suppliers to products
-- **Purchase orders:** create, submit, receive and cancel orders; receiving updates stock once
-- **Stock movements:** stock in, stock out and stock adjustment with balance checks and transaction history
-- **Employee directory:** 300 synthetic people across ten departments; email IDs built from their names such as `aarav.sharma@pysupply.com`
-- **Categories:** manage product groups and relationships
-- **Audit history:** administrator-only view of changes
-- **CSV exports:** export products, suppliers, employees, orders, transactions and categories
-- **Responsive interface:** custom login, sidebar, tables, forms, badges and mobile layout with original SVG branding
+## Business Problem
 
-## Sample data included
+Businesses often face several operational challenges when managing inventory and suppliers using spreadsheets or manual records.
 
-| Dataset | Quantity |
+These challenges include:
+
+- Inaccurate stock quantities and manual entry errors.
+- Difficulty identifying low-stock products.
+- Poor visibility into supplier and purchase-order information.
+- Duplicate or incorrect stock transactions.
+- Lack of centralized inventory reports.
+- Limited visibility into changes made by different users.
+
+These problems can result in inventory shortages, delayed procurement, inefficient operations, and unreliable business decisions.
+
+## My Solution
+
+To address these challenges, I developed pySupply as a centralized inventory management platform.
+
+| Business Problem | Solution I Developed |
+|---|---|
+| Manual stock tracking | Digital inventory management with stock transaction records |
+| Inventory shortages | Dashboard indicators and low-stock alerts |
+| Disconnected supplier information | Centralized supplier records linked to products |
+| Purchase-order tracking | Purchase-order creation, submission and receiving |
+| Incorrect inventory updates | Stock validation and duplicate-receipt prevention |
+| Limited accountability | Role-based permissions and audit history |
+| Manual reporting | CSV exports for further business analysis |
+
+The solution demonstrates how software automation can improve inventory visibility, data accuracy, and operational efficiency.
+
+## Key Features
+
+### Inventory Dashboard
+
+A responsive dashboard displaying inventory KPIs, product distribution, stock levels, purchase-order information, and low-stock indicators.
+
+### Product Management
+
+Allows authorized users to add, update, search, and deactivate products while maintaining categories, supplier relationships, unit prices, and reorder levels.
+
+### Supplier Management
+
+Provides centralized supplier information and relationships between suppliers, products, and purchase orders.
+
+### Purchase Order Management
+
+Supports purchase-order creation, submission, receiving, and cancellation. Receiving updates stock quantities while preventing duplicate stock receipts.
+
+### Stock Tracking
+
+Records stock-in, stock-out, and stock-adjustment transactions. The system validates available inventory before allowing stock withdrawals.
+
+### Employee Directory
+
+Includes fictional employee profiles with departments, job titles, and name-based email addresses.
+
+### Role-Based Login
+
+Separate Admin, Manager, and Viewer accounts provide different levels of application access.
+
+### Reporting and Exports
+
+Supports CSV exports of operational records for further analysis using Excel or Python.
+
+## Project Dataset
+
+| Module | Demo Records |
 |---|---:|
-| Employees | **300** |
-| Products | **240** |
-| Suppliers | **24** |
-| Product categories | **12** |
-| Purchase orders | **180** |
-| Stock transactions | **605** |
+| Employees | 300 |
+| Products | 240 |
+| Suppliers | 24 |
+| Categories | 12 |
+| Purchase Orders | 180 |
+| Stock Movements | 605 |
 
-The files in `demo_data/` are safe, fictional CSV snapshots. Run the one-step setup to create their linked SQLite records. Foreign-key relationships and unique employee emails are checked by the verification script. All data is generated deterministically, so it can be regenerated without relying on an external database server.
+Employee emails follow the format `firstname.lastname@pysupply.com`.
 
-## Quick start — Windows / PyCharm
+All records are synthetic and are not associated with actual employees, suppliers, or company transactions.
 
-**Requirements:** Python **3.11 or newer**, PyCharm or a terminal, and a web browser. **No pip installation, `.venv`, MySQL, Docker or internet connection is required.**
+## Technologies Used
 
-1. Extract this ZIP and open its project folder in PyCharm.
-2. Set a supported Python interpreter in **Settings → Project → Python Interpreter**. Using Python 3.12 is recommended; Python 3.14 is also supported by the standard-library code.
-3. From the PyCharm Terminal, run:
+| Technology | Purpose |
+|---|---|
+| Python | Backend functionality and business logic |
+| SQLite | Local relational database |
+| HTML5 | Application structure |
+| CSS3 | Responsive design and styling |
+| JavaScript | Interactive frontend and API requests |
+| JSON APIs | Communication between frontend and backend |
+| Python unittest | Automated workflow testing |
+| Git and GitHub | Version control and portfolio documentation |
+
+## How to Run the Project
+
+### Requirements
+
+Python 3.11 or newer, PyCharm, and a web browser.
+
+The application uses Python's standard library and does not require MySQL, Docker, or additional Python packages.
+
+### Step 1 — Open in PyCharm
+
+Download or clone the repository and open the extracted project folder in PyCharm.
+
+Configure a supported Python interpreter.
+
+### Step 2 — Initialize the Application
+
+Open the PyCharm terminal and execute:
 
 ```powershell
 python setup_project.py
 ```
 
-This creates a private `.env` file, `pysupply.db`, database tables and the full fictional data set. **It prints newly generated Admin, Manager, and Viewer passwords once. Save them privately.** If you already have a configured `.env`, it preserves valid credentials.
+This creates the SQLite database, local environment configuration, demonstration data, and three login accounts.
 
-4. Start the local web server:
+Save the generated passwords displayed in the terminal.
+
+### Step 3 — Run the Application
 
 ```powershell
 python run.py
 ```
 
-5. Open **http://127.0.0.1:8000/login**. Log in with `admin@pysupply.com` and the password printed in Step 3. Additional read-only and restricted-access logins are `viewer@pysupply.com` and `manager@pysupply.com` (their generated passwords are also printed).
+Open:
 
-**Even easier:** Running `python run.py` with no `.env` triggers the one-step setup automatically. We recommend running setup explicitly the first time so you can easily note the generated password.
+**http://127.0.0.1:8000/login**
 
-### Empty or incomplete `.env`?
+### Demo Login Accounts
 
-Run `python setup_project.py` again. It safely fills missing credentials with random values and keeps valid existing values. The reference file is `.env.example`:
+| Role | Email |
+|---|---|
+| Administrator | admin@pysupply.com |
+| Manager | manager@pysupply.com |
+| Viewer | viewer@pysupply.com |
 
-```dotenv
-COMPANY_NAME=pySupply
-DATABASE_PATH=pysupply.db
-ADMIN_EMAIL=admin@pysupply.com
-ADMIN_PASSWORD=REPLACE_WITH_YOUR_OWN_PASSWORD_12_PLUS
-MANAGER_PASSWORD=REPLACE_WITH_YOUR_OWN_PASSWORD_12_PLUS
-VIEWER_PASSWORD=REPLACE_WITH_YOUR_OWN_PASSWORD_12_PLUS
-SECRET_KEY=REPLACE_WITH_GENERATED_SECRET_AT_LEAST_32_CHARACTERS
-HOST=127.0.0.1
-PORT=8000
-COOKIE_HTTPS_ONLY=false
-```
+Passwords are generated securely during setup.
 
-Don't copy these placeholder values as real credentials. `setup_project.py` replaces them.
-
-### Forgotten admin password?
+If the administrator password is forgotten:
 
 ```powershell
 python reset_admin.py
 ```
 
-The command issues a new password and invalidates old login sessions **without deleting employee, supplier or inventory data**.
-
-### Verification & tests
+### Step 4 — Verify and Test
 
 ```powershell
 python verify_demo.py
 python -m unittest discover -s tests -v
 ```
 
-The application also offers a local health check at `http://127.0.0.1:8000/health`.
-
-## Project structure
+## Project Structure
 
 ```text
 pySupply_Inventory_Supplier_Management/
-├── run.py                   # HTTP web server and JSON API
-├── config.py                # Dependency-free .env reader
-├── storage.py               # SQLite schema, queries and transactions
-├── security.py              # PBKDF2 password hashing and sessions
-├── seed.py                  # Linked fictional data generator
-├── setup_project.py         # One-step local setup and credential generation
-├── reset_admin.py           # Safe local administrator password reset
-├── verify_demo.py           # Counts, email uniqueness and FK checks
+├── run.py
+├── config.py
+├── storage.py
+├── security.py
+├── seed.py
+├── setup_project.py
+├── reset_admin.py
+├── verify_demo.py
 ├── static/
-│   ├── logo.svg             # Original pySupply brand
-│   ├── favicon.svg
-│   ├── style.css
-│   ├── app.js
-│   └── login.js
 ├── templates/
-│   ├── login.html
-│   └── dashboard.html
-├── demo_data/              # Fictional CSVs safe to review on GitHub
+├── demo_data/
 ├── tests/
-│   └── test_workflows.py
-├── .github/workflows/ci.yml
-├── .env.example             # Reference only; no credentials
+├── .env.example
 ├── .gitignore
 └── README.md
 ```
 
-## API examples
+## Future Enhancements
 
-The frontend interacts with local JSON routes including `GET /api/me`, `GET /api/stats`, `GET /api/products`, `GET /api/suppliers`, `GET /api/employees`, `POST /api/stock`, `POST /api/orders`, and `POST /api/orders/{id}/status`. Authenticated exports are available at `/api/export/products` and related names.
+The following are planned improvements and are not currently implemented:
 
-Mutation requests require an authenticated session and a CSRF token. Sessions use HTTP-only cookies. Passwords use PBKDF2-HMAC-SHA256 with a random salt. SQLite enforces foreign keys, and stock updates and PO receiving are transactional.
+1. **Barcode and QR Code Scanning:** Simplify product identification and stock transactions.
+2. **Automatic Reorder Notifications:** Notify inventory managers when stock reaches minimum levels.
+3. **Supplier Performance Analysis:** Evaluate supplier reliability, delivery time, and pricing.
+4. **Purchase Approval Workflow:** Introduce multi-level approvals for procurement.
+5. **Multi-Warehouse Management:** Track stock across multiple storage locations.
+6. **Inventory Forecasting:** Estimate future inventory requirements using historical consumption.
+7. **Advanced Reports:** Generate Excel and PDF reports for management.
+8. **Cloud Deployment:** Support secure remote access with production-grade authentication, HTTPS, and backups.
 
-## GitHub — what to include or exclude
+## Skills Demonstrated
 
-**Include:** Python source, the `static/` and `templates/` directories, synthetic `demo_data/`, `tests/`, `README.md`, `.gitignore`, `.env.example` and GitHub Actions workflow.
+Through this project, I demonstrated practical experience in:
 
-**Do not include:** `.env`, `pysupply.db` (contains hashed local demo credentials), any real employee records, `.venv/`, `__pycache__/`, IDE files, logs or any secret keys.
+- Python backend development and REST-style JSON APIs.
+- SQLite database design and relational data management.
+- Inventory and procurement business logic.
+- Authentication, role permissions, and data validation.
+- Responsive web design with HTML, CSS, and JavaScript.
+- Automated testing, debugging, and software documentation.
 
-Create an empty repository called `pysupply-inventory-management` and run:
+## Conclusion
 
-```powershell
-git init
-git add .
-git status
-git commit -m "Build pySupply inventory and supplier management demo"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/pysupply-inventory-management.git
-git push -u origin main
-```
+Developing pySupply helped me strengthen my understanding of real-world inventory management workflows and full-stack Python application development.
 
-Replace `YOUR_USERNAME`. **Review `git status`** before committing to confirm that `.env` and database files aren't staged.
+The project demonstrates my ability to identify business problems, design software-based solutions, work with relational databases, and create interactive management applications.
 
-## Limits and responsible use
+**Project Type:** Personal Python Development Portfolio Project
 
-This is a **local portfolio demonstration**, not an internet-exposed ERP application. It has a single SQLite database, a Python development HTTP server and simplified role administration. It has not been penetration-tested or validated as production-ready. If deployed externally, add HTTPS, server-side login rate limiting, robust session rotation, central logging, secure backups, fine-grained authorization and operational monitoring. Demonstration contact addresses use `@pysupply.com` as requested; no actual mail is delivered.
+**Company Name:** pySupply (Fictional)
 
-### Testing disclosure
-
-Automated Python tests cover HTTP login, sessions, CRUD, stock insufficiency, order receipt idempotency, employee email constraints and CSV exports. Complete browser testing under Windows and the organization's application-control policy is not guaranteed and must be verified locally. This repository does not claim real production deployment or GitHub upload by the assistant.
+**Status:** Local demonstration application using synthetic data.
