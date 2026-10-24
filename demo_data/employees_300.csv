@@ -1,0 +1,301 @@
+employee_code,first_name,last_name,email,department,job_title,phone,joining_date,status
+PYS-EMP-0001,Nisha,Iyer,nisha.iyer@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00001,2022-12-11,active
+PYS-EMP-0002,Arjun,Sharma,arjun.sharma@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00002,2023-10-28,active
+PYS-EMP-0003,Vivaan,Reddy,vivaan.reddy@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00003,2024-06-04,active
+PYS-EMP-0004,Rohan,Iyer,rohan.iyer@pysupply.com,Logistics,Associate - Logistics,+91-90000-00004,2024-11-02,active
+PYS-EMP-0005,Sneha,Patel,sneha.patel@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00005,2025-02-24,active
+PYS-EMP-0006,Kiran,Iyer,kiran.iyer@pysupply.com,Finance,Supervisor - Finance,+91-90000-00006,2023-11-11,active
+PYS-EMP-0007,Pooja,Sharma,pooja.sharma@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00007,2023-10-23,active
+PYS-EMP-0008,Sneha,Bhat,sneha.bhat@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00008,2026-01-22,active
+PYS-EMP-0009,Aditi,Desai,aditi.desai@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00009,2025-09-07,active
+PYS-EMP-0010,Ishaan,Gupta,ishaan.gupta@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00010,2024-10-07,active
+PYS-EMP-0011,Pooja,Iyer,pooja.iyer@pysupply.com,Procurement,Executive - Procurement,+91-90000-00011,2024-04-05,active
+PYS-EMP-0012,Meera,Kapoor,meera.kapoor@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00012,2023-10-05,active
+PYS-EMP-0013,Aarav,Chatterjee,aarav.chatterjee@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00013,2022-12-28,active
+PYS-EMP-0014,Arjun,Menon,arjun.menon@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00014,2023-02-07,active
+PYS-EMP-0015,Nikhil,Kapoor,nikhil.kapoor@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00015,2024-08-06,active
+PYS-EMP-0016,Diya,Rao,diya.rao@pysupply.com,Finance,Coordinator - Finance,+91-90000-00016,2023-03-27,active
+PYS-EMP-0017,Dev,Joshi,dev.joshi@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00017,2025-11-12,active
+PYS-EMP-0018,Arjun,Patel,arjun.patel@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00018,2023-12-15,active
+PYS-EMP-0019,Aditi,Nair,aditi.nair@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00019,2026-04-04,active
+PYS-EMP-0020,Meera,Nair,meera.nair@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00020,2023-12-19,active
+PYS-EMP-0021,Kabir,Mehta,kabir.mehta@pysupply.com,Procurement,Lead - Procurement,+91-90000-00021,2024-04-19,active
+PYS-EMP-0022,Siddharth,Pillai,siddharth.pillai@pysupply.com,Warehouse Operations,Supervisor - Warehouse Operations,+91-90000-00022,2025-04-23,active
+PYS-EMP-0023,Aditi,Gupta,aditi.gupta@pysupply.com,Supplier Relations,Officer - Supplier Relations,+91-90000-00023,2024-02-21,active
+PYS-EMP-0024,Nikhil,Kulkarni,nikhil.kulkarni@pysupply.com,Logistics,Coordinator - Logistics,+91-90000-00024,2023-03-12,active
+PYS-EMP-0025,Aditi,Mishra,aditi.mishra@pysupply.com,Sales Operations,Analyst - Sales Operations,+91-90000-00025,2022-11-13,active
+PYS-EMP-0026,Meera,Reddy,meera.reddy@pysupply.com,Finance,Specialist - Finance,+91-90000-00026,2024-06-23,active
+PYS-EMP-0027,Advik,Patel,advik.patel@pysupply.com,Information Technology,Executive - Information Technology,+91-90000-00027,2026-03-02,active
+PYS-EMP-0028,Saanvi,Desai,saanvi.desai@pysupply.com,Quality Assurance,Associate - Quality Assurance,+91-90000-00028,2025-03-06,active
+PYS-EMP-0029,Kavya,Patel,kavya.patel@pysupply.com,Human Resources,Lead - Human Resources,+91-90000-00029,2025-09-07,active
+PYS-EMP-0030,Ishaan,Pillai,ishaan.pillai@pysupply.com,Supply Planning,Supervisor - Supply Planning,+91-90000-00030,2026-02-16,active
+PYS-EMP-0031,Aarav,Nair,aarav.nair@pysupply.com,Procurement,Officer - Procurement,+91-90000-00031,2022-09-19,active
+PYS-EMP-0032,Aarav,Kulkarni,aarav.kulkarni@pysupply.com,Warehouse Operations,Coordinator - Warehouse Operations,+91-90000-00032,2024-06-02,active
+PYS-EMP-0033,Aarav,Kapoor,aarav.kapoor@pysupply.com,Supplier Relations,Analyst - Supplier Relations,+91-90000-00033,2023-07-03,active
+PYS-EMP-0034,Neha,Menon,neha.menon@pysupply.com,Logistics,Specialist - Logistics,+91-90000-00034,2023-11-05,active
+PYS-EMP-0035,Saanvi,Das,saanvi.das@pysupply.com,Sales Operations,Executive - Sales Operations,+91-90000-00035,2022-08-30,active
+PYS-EMP-0036,Rohan,Nair,rohan.nair@pysupply.com,Finance,Associate - Finance,+91-90000-00036,2023-10-18,active
+PYS-EMP-0037,Kabir,Nair,kabir.nair@pysupply.com,Information Technology,Lead - Information Technology,+91-90000-00037,2023-06-30,active
+PYS-EMP-0038,Arjun,Das,arjun.das@pysupply.com,Quality Assurance,Supervisor - Quality Assurance,+91-90000-00038,2024-06-29,active
+PYS-EMP-0039,Ananya,Bhat,ananya.bhat@pysupply.com,Human Resources,Officer - Human Resources,+91-90000-00039,2023-06-24,active
+PYS-EMP-0040,Rahul,Reddy,rahul.reddy@pysupply.com,Supply Planning,Coordinator - Supply Planning,+91-90000-00040,2022-10-25,active
+PYS-EMP-0041,Varun,Nair,varun.nair@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00041,2025-01-21,active
+PYS-EMP-0042,Arjun,Rao,arjun.rao@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00042,2025-07-07,active
+PYS-EMP-0043,Rahul,Kapoor,rahul.kapoor@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00043,2023-07-04,active
+PYS-EMP-0044,Nisha,Rao,nisha.rao@pysupply.com,Logistics,Associate - Logistics,+91-90000-00044,2023-04-25,active
+PYS-EMP-0045,Riya,Pillai,riya.pillai@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00045,2023-11-11,active
+PYS-EMP-0046,Varun,Bhat,varun.bhat@pysupply.com,Finance,Supervisor - Finance,+91-90000-00046,2022-10-21,active
+PYS-EMP-0047,Rahul,Mehta,rahul.mehta@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00047,2025-02-23,active
+PYS-EMP-0048,Pooja,Chatterjee,pooja.chatterjee@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00048,2026-05-01,active
+PYS-EMP-0049,Dev,Gupta,dev.gupta@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00049,2022-09-10,active
+PYS-EMP-0050,Rahul,Mishra,rahul.mishra@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00050,2023-07-03,active
+PYS-EMP-0051,Priya,Kapoor,priya.kapoor@pysupply.com,Procurement,Executive - Procurement,+91-90000-00051,2023-08-25,active
+PYS-EMP-0052,Neha,Pillai,neha.pillai@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00052,2025-03-22,active
+PYS-EMP-0053,Saanvi,Joshi,saanvi.joshi@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00053,2024-07-27,active
+PYS-EMP-0054,Reyansh,Kapoor,reyansh.kapoor@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00054,2025-07-20,active
+PYS-EMP-0055,Neha,Nair,neha.nair@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00055,2024-04-01,active
+PYS-EMP-0056,Diya,Das,diya.das@pysupply.com,Finance,Coordinator - Finance,+91-90000-00056,2024-03-29,active
+PYS-EMP-0057,Saanvi,Reddy,saanvi.reddy@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00057,2022-02-14,active
+PYS-EMP-0058,Ishaan,Verma,ishaan.verma@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00058,2025-01-30,active
+PYS-EMP-0059,Rahul,Gupta,rahul.gupta@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00059,2026-01-07,active
+PYS-EMP-0060,Reyansh,Pillai,reyansh.pillai@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00060,2023-11-06,active
+PYS-EMP-0061,Manav,Desai,manav.desai@pysupply.com,Procurement,Lead - Procurement,+91-90000-00061,2025-10-12,active
+PYS-EMP-0062,Rohan,Verma,rohan.verma@pysupply.com,Warehouse Operations,Supervisor - Warehouse Operations,+91-90000-00062,2024-04-18,active
+PYS-EMP-0063,Meera,Sharma,meera.sharma@pysupply.com,Supplier Relations,Officer - Supplier Relations,+91-90000-00063,2023-11-21,active
+PYS-EMP-0064,Saanvi,Rao,saanvi.rao@pysupply.com,Logistics,Coordinator - Logistics,+91-90000-00064,2022-07-14,active
+PYS-EMP-0065,Aarav,Rao,aarav.rao@pysupply.com,Sales Operations,Analyst - Sales Operations,+91-90000-00065,2025-10-22,active
+PYS-EMP-0066,Reyansh,Sharma,reyansh.sharma@pysupply.com,Finance,Specialist - Finance,+91-90000-00066,2026-04-21,active
+PYS-EMP-0067,Kabir,Menon,kabir.menon@pysupply.com,Information Technology,Executive - Information Technology,+91-90000-00067,2024-10-10,active
+PYS-EMP-0068,Varun,Das,varun.das@pysupply.com,Quality Assurance,Associate - Quality Assurance,+91-90000-00068,2025-10-20,active
+PYS-EMP-0069,Rahul,Pillai,rahul.pillai@pysupply.com,Human Resources,Lead - Human Resources,+91-90000-00069,2025-07-20,active
+PYS-EMP-0070,Diya,Chatterjee,diya.chatterjee@pysupply.com,Supply Planning,Supervisor - Supply Planning,+91-90000-00070,2025-09-29,active
+PYS-EMP-0071,Tara,Das,tara.das@pysupply.com,Procurement,Officer - Procurement,+91-90000-00071,2026-04-15,active
+PYS-EMP-0072,Rahul,Desai,rahul.desai@pysupply.com,Warehouse Operations,Coordinator - Warehouse Operations,+91-90000-00072,2025-01-24,active
+PYS-EMP-0073,Vivaan,Kulkarni,vivaan.kulkarni@pysupply.com,Supplier Relations,Analyst - Supplier Relations,+91-90000-00073,2024-11-24,active
+PYS-EMP-0074,Rohan,Menon,rohan.menon@pysupply.com,Logistics,Specialist - Logistics,+91-90000-00074,2023-03-06,active
+PYS-EMP-0075,Rahul,Sharma,rahul.sharma@pysupply.com,Sales Operations,Executive - Sales Operations,+91-90000-00075,2024-05-19,active
+PYS-EMP-0076,Vivaan,Nair,vivaan.nair@pysupply.com,Finance,Associate - Finance,+91-90000-00076,2023-12-23,active
+PYS-EMP-0077,Shreya,Gupta,shreya.gupta@pysupply.com,Information Technology,Lead - Information Technology,+91-90000-00077,2025-08-20,active
+PYS-EMP-0078,Kavya,Mehta,kavya.mehta@pysupply.com,Quality Assurance,Supervisor - Quality Assurance,+91-90000-00078,2023-11-08,active
+PYS-EMP-0079,Riya,Kapoor,riya.kapoor@pysupply.com,Human Resources,Officer - Human Resources,+91-90000-00079,2022-05-03,active
+PYS-EMP-0080,Manav,Verma,manav.verma@pysupply.com,Supply Planning,Coordinator - Supply Planning,+91-90000-00080,2024-03-29,active
+PYS-EMP-0081,Nikhil,Iyer,nikhil.iyer@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00081,2026-01-23,active
+PYS-EMP-0082,Aarav,Desai,aarav.desai@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00082,2022-12-21,active
+PYS-EMP-0083,Dev,Rao,dev.rao@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00083,2022-01-22,active
+PYS-EMP-0084,Neha,Kulkarni,neha.kulkarni@pysupply.com,Logistics,Associate - Logistics,+91-90000-00084,2023-07-01,active
+PYS-EMP-0085,Dev,Sharma,dev.sharma@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00085,2025-02-18,active
+PYS-EMP-0086,Manav,Pillai,manav.pillai@pysupply.com,Finance,Supervisor - Finance,+91-90000-00086,2025-12-08,active
+PYS-EMP-0087,Nisha,Kapoor,nisha.kapoor@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00087,2023-06-01,active
+PYS-EMP-0088,Ira,Pillai,ira.pillai@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00088,2022-09-25,active
+PYS-EMP-0089,Ananya,Chatterjee,ananya.chatterjee@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00089,2023-11-16,active
+PYS-EMP-0090,Nisha,Menon,nisha.menon@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00090,2025-03-31,active
+PYS-EMP-0091,Kabir,Singh,kabir.singh@pysupply.com,Procurement,Executive - Procurement,+91-90000-00091,2025-08-12,active
+PYS-EMP-0092,Arjun,Iyer,arjun.iyer@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00092,2025-06-06,active
+PYS-EMP-0093,Reyansh,Iyer,reyansh.iyer@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00093,2024-04-29,active
+PYS-EMP-0094,Meera,Pillai,meera.pillai@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00094,2026-05-13,active
+PYS-EMP-0095,Diya,Mishra,diya.mishra@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00095,2024-09-01,active
+PYS-EMP-0096,Arjun,Mishra,arjun.mishra@pysupply.com,Finance,Coordinator - Finance,+91-90000-00096,2024-09-16,active
+PYS-EMP-0097,Ananya,Kapoor,ananya.kapoor@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00097,2023-11-25,active
+PYS-EMP-0098,Diya,Singh,diya.singh@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00098,2022-01-25,active
+PYS-EMP-0099,Meera,Kulkarni,meera.kulkarni@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00099,2022-03-18,active
+PYS-EMP-0100,Tara,Iyer,tara.iyer@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00100,2026-03-31,active
+PYS-EMP-0101,Aarav,Bhat,aarav.bhat@pysupply.com,Procurement,Lead - Procurement,+91-90000-00101,2023-03-27,active
+PYS-EMP-0102,Kiran,Rao,kiran.rao@pysupply.com,Warehouse Operations,Supervisor - Warehouse Operations,+91-90000-00102,2025-07-27,active
+PYS-EMP-0103,Nikhil,Menon,nikhil.menon@pysupply.com,Supplier Relations,Officer - Supplier Relations,+91-90000-00103,2022-09-05,active
+PYS-EMP-0104,Rahul,Singh,rahul.singh@pysupply.com,Logistics,Coordinator - Logistics,+91-90000-00104,2025-09-15,active
+PYS-EMP-0105,Pooja,Verma,pooja.verma@pysupply.com,Sales Operations,Analyst - Sales Operations,+91-90000-00105,2023-07-05,active
+PYS-EMP-0106,Neha,Mehta,neha.mehta@pysupply.com,Finance,Specialist - Finance,+91-90000-00106,2023-10-31,active
+PYS-EMP-0107,Advik,Desai,advik.desai@pysupply.com,Information Technology,Executive - Information Technology,+91-90000-00107,2022-02-06,active
+PYS-EMP-0108,Neha,Das,neha.das@pysupply.com,Quality Assurance,Associate - Quality Assurance,+91-90000-00108,2026-05-16,active
+PYS-EMP-0109,Shreya,Joshi,shreya.joshi@pysupply.com,Human Resources,Lead - Human Resources,+91-90000-00109,2023-03-05,active
+PYS-EMP-0110,Nikhil,Verma,nikhil.verma@pysupply.com,Supply Planning,Supervisor - Supply Planning,+91-90000-00110,2024-07-25,active
+PYS-EMP-0111,Reyansh,Verma,reyansh.verma@pysupply.com,Procurement,Officer - Procurement,+91-90000-00111,2024-11-20,active
+PYS-EMP-0112,Saanvi,Singh,saanvi.singh@pysupply.com,Warehouse Operations,Coordinator - Warehouse Operations,+91-90000-00112,2023-07-22,active
+PYS-EMP-0113,Sneha,Mehta,sneha.mehta@pysupply.com,Supplier Relations,Analyst - Supplier Relations,+91-90000-00113,2025-06-29,active
+PYS-EMP-0114,Vivaan,Joshi,vivaan.joshi@pysupply.com,Logistics,Specialist - Logistics,+91-90000-00114,2025-07-14,active
+PYS-EMP-0115,Siddharth,Reddy,siddharth.reddy@pysupply.com,Sales Operations,Executive - Sales Operations,+91-90000-00115,2024-01-27,active
+PYS-EMP-0116,Reyansh,Das,reyansh.das@pysupply.com,Finance,Associate - Finance,+91-90000-00116,2022-06-11,active
+PYS-EMP-0117,Kavya,Das,kavya.das@pysupply.com,Information Technology,Lead - Information Technology,+91-90000-00117,2025-02-12,active
+PYS-EMP-0118,Dev,Chatterjee,dev.chatterjee@pysupply.com,Quality Assurance,Supervisor - Quality Assurance,+91-90000-00118,2025-11-19,active
+PYS-EMP-0119,Ananya,Gupta,ananya.gupta@pysupply.com,Human Resources,Officer - Human Resources,+91-90000-00119,2023-01-20,active
+PYS-EMP-0120,Riya,Desai,riya.desai@pysupply.com,Supply Planning,Coordinator - Supply Planning,+91-90000-00120,2025-01-08,active
+PYS-EMP-0121,Riya,Das,riya.das@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00121,2026-04-24,active
+PYS-EMP-0122,Sneha,Iyer,sneha.iyer@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00122,2022-01-24,active
+PYS-EMP-0123,Siddharth,Das,siddharth.das@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00123,2022-07-15,active
+PYS-EMP-0124,Aarav,Mishra,aarav.mishra@pysupply.com,Logistics,Associate - Logistics,+91-90000-00124,2022-11-16,active
+PYS-EMP-0125,Ishaan,Bhat,ishaan.bhat@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00125,2023-11-07,active
+PYS-EMP-0126,Tara,Mishra,tara.mishra@pysupply.com,Finance,Supervisor - Finance,+91-90000-00126,2023-03-26,active
+PYS-EMP-0127,Diya,Sharma,diya.sharma@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00127,2024-08-07,active
+PYS-EMP-0128,Kavya,Gupta,kavya.gupta@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00128,2023-02-27,active
+PYS-EMP-0129,Manav,Patel,manav.patel@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00129,2025-05-26,active
+PYS-EMP-0130,Shreya,Mishra,shreya.mishra@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00130,2025-10-10,active
+PYS-EMP-0131,Saanvi,Pillai,saanvi.pillai@pysupply.com,Procurement,Executive - Procurement,+91-90000-00131,2022-12-16,active
+PYS-EMP-0132,Ananya,Verma,ananya.verma@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00132,2025-12-15,active
+PYS-EMP-0133,Saanvi,Menon,saanvi.menon@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00133,2023-09-26,active
+PYS-EMP-0134,Pooja,Mehta,pooja.mehta@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00134,2022-06-22,active
+PYS-EMP-0135,Kiran,Mehta,kiran.mehta@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00135,2025-03-08,active
+PYS-EMP-0136,Kavya,Verma,kavya.verma@pysupply.com,Finance,Coordinator - Finance,+91-90000-00136,2024-05-04,active
+PYS-EMP-0137,Vivaan,Gupta,vivaan.gupta@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00137,2025-12-28,active
+PYS-EMP-0138,Ishaan,Mishra,ishaan.mishra@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00138,2024-12-04,active
+PYS-EMP-0139,Sneha,Chatterjee,sneha.chatterjee@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00139,2025-10-26,active
+PYS-EMP-0140,Ananya,Patel,ananya.patel@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00140,2025-04-21,active
+PYS-EMP-0141,Diya,Desai,diya.desai@pysupply.com,Procurement,Lead - Procurement,+91-90000-00141,2025-02-19,active
+PYS-EMP-0142,Kabir,Joshi,kabir.joshi@pysupply.com,Warehouse Operations,Supervisor - Warehouse Operations,+91-90000-00142,2022-09-30,active
+PYS-EMP-0143,Vivaan,Desai,vivaan.desai@pysupply.com,Supplier Relations,Officer - Supplier Relations,+91-90000-00143,2022-08-10,active
+PYS-EMP-0144,Reyansh,Mehta,reyansh.mehta@pysupply.com,Logistics,Coordinator - Logistics,+91-90000-00144,2022-02-27,active
+PYS-EMP-0145,Ira,Patel,ira.patel@pysupply.com,Sales Operations,Analyst - Sales Operations,+91-90000-00145,2023-07-09,active
+PYS-EMP-0146,Neha,Joshi,neha.joshi@pysupply.com,Finance,Specialist - Finance,+91-90000-00146,2024-05-09,active
+PYS-EMP-0147,Siddharth,Iyer,siddharth.iyer@pysupply.com,Information Technology,Executive - Information Technology,+91-90000-00147,2022-04-02,active
+PYS-EMP-0148,Arjun,Chatterjee,arjun.chatterjee@pysupply.com,Quality Assurance,Associate - Quality Assurance,+91-90000-00148,2023-01-15,active
+PYS-EMP-0149,Arjun,Reddy,arjun.reddy@pysupply.com,Human Resources,Lead - Human Resources,+91-90000-00149,2025-01-31,active
+PYS-EMP-0150,Saanvi,Kapoor,saanvi.kapoor@pysupply.com,Supply Planning,Supervisor - Supply Planning,+91-90000-00150,2026-02-12,active
+PYS-EMP-0151,Siddharth,Rao,siddharth.rao@pysupply.com,Procurement,Officer - Procurement,+91-90000-00151,2024-11-17,active
+PYS-EMP-0152,Dev,Pillai,dev.pillai@pysupply.com,Warehouse Operations,Coordinator - Warehouse Operations,+91-90000-00152,2023-04-19,active
+PYS-EMP-0153,Ira,Singh,ira.singh@pysupply.com,Supplier Relations,Analyst - Supplier Relations,+91-90000-00153,2024-08-22,active
+PYS-EMP-0154,Saanvi,Verma,saanvi.verma@pysupply.com,Logistics,Specialist - Logistics,+91-90000-00154,2025-09-09,active
+PYS-EMP-0155,Ira,Verma,ira.verma@pysupply.com,Sales Operations,Executive - Sales Operations,+91-90000-00155,2025-09-19,active
+PYS-EMP-0156,Ishaan,Menon,ishaan.menon@pysupply.com,Finance,Associate - Finance,+91-90000-00156,2023-11-30,active
+PYS-EMP-0157,Manav,Joshi,manav.joshi@pysupply.com,Information Technology,Lead - Information Technology,+91-90000-00157,2023-12-05,active
+PYS-EMP-0158,Tara,Reddy,tara.reddy@pysupply.com,Quality Assurance,Supervisor - Quality Assurance,+91-90000-00158,2023-12-13,active
+PYS-EMP-0159,Rahul,Joshi,rahul.joshi@pysupply.com,Human Resources,Officer - Human Resources,+91-90000-00159,2023-10-13,active
+PYS-EMP-0160,Reyansh,Gupta,reyansh.gupta@pysupply.com,Supply Planning,Coordinator - Supply Planning,+91-90000-00160,2025-05-27,active
+PYS-EMP-0161,Shreya,Rao,shreya.rao@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00161,2024-09-09,active
+PYS-EMP-0162,Arjun,Nair,arjun.nair@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00162,2023-06-07,active
+PYS-EMP-0163,Kabir,Patel,kabir.patel@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00163,2024-09-27,active
+PYS-EMP-0164,Rahul,Chatterjee,rahul.chatterjee@pysupply.com,Logistics,Associate - Logistics,+91-90000-00164,2023-11-01,active
+PYS-EMP-0165,Shreya,Pillai,shreya.pillai@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00165,2023-05-28,active
+PYS-EMP-0166,Aarav,Gupta,aarav.gupta@pysupply.com,Finance,Supervisor - Finance,+91-90000-00166,2022-03-17,active
+PYS-EMP-0167,Sneha,Rao,sneha.rao@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00167,2025-08-11,active
+PYS-EMP-0168,Ishaan,Desai,ishaan.desai@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00168,2024-09-30,active
+PYS-EMP-0169,Advik,Nair,advik.nair@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00169,2022-09-30,active
+PYS-EMP-0170,Meera,Menon,meera.menon@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00170,2022-02-14,active
+PYS-EMP-0171,Manav,Das,manav.das@pysupply.com,Procurement,Executive - Procurement,+91-90000-00171,2024-09-11,active
+PYS-EMP-0172,Tara,Patel,tara.patel@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00172,2024-01-20,active
+PYS-EMP-0173,Riya,Chatterjee,riya.chatterjee@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00173,2023-06-04,active
+PYS-EMP-0174,Siddharth,Kulkarni,siddharth.kulkarni@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00174,2026-03-27,active
+PYS-EMP-0175,Nikhil,Nair,nikhil.nair@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00175,2024-08-12,active
+PYS-EMP-0176,Neha,Reddy,neha.reddy@pysupply.com,Finance,Coordinator - Finance,+91-90000-00176,2023-02-12,active
+PYS-EMP-0177,Ishaan,Iyer,ishaan.iyer@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00177,2024-01-23,active
+PYS-EMP-0178,Arjun,Desai,arjun.desai@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00178,2023-07-15,active
+PYS-EMP-0179,Nikhil,Bhat,nikhil.bhat@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00179,2024-11-15,active
+PYS-EMP-0180,Manav,Chatterjee,manav.chatterjee@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00180,2026-02-08,active
+PYS-EMP-0181,Ananya,Singh,ananya.singh@pysupply.com,Procurement,Lead - Procurement,+91-90000-00181,2024-03-30,active
+PYS-EMP-0182,Reyansh,Patel,reyansh.patel@pysupply.com,Warehouse Operations,Supervisor - Warehouse Operations,+91-90000-00182,2023-09-15,active
+PYS-EMP-0183,Aditi,Verma,aditi.verma@pysupply.com,Supplier Relations,Officer - Supplier Relations,+91-90000-00183,2023-03-24,active
+PYS-EMP-0184,Rohan,Desai,rohan.desai@pysupply.com,Logistics,Coordinator - Logistics,+91-90000-00184,2025-04-06,active
+PYS-EMP-0185,Priya,Sharma,priya.sharma@pysupply.com,Sales Operations,Analyst - Sales Operations,+91-90000-00185,2022-04-21,active
+PYS-EMP-0186,Shreya,Das,shreya.das@pysupply.com,Finance,Specialist - Finance,+91-90000-00186,2024-04-21,active
+PYS-EMP-0187,Kavya,Rao,kavya.rao@pysupply.com,Information Technology,Executive - Information Technology,+91-90000-00187,2022-05-13,active
+PYS-EMP-0188,Pooja,Menon,pooja.menon@pysupply.com,Quality Assurance,Associate - Quality Assurance,+91-90000-00188,2026-01-26,active
+PYS-EMP-0189,Ananya,Kulkarni,ananya.kulkarni@pysupply.com,Human Resources,Lead - Human Resources,+91-90000-00189,2026-01-18,active
+PYS-EMP-0190,Manav,Gupta,manav.gupta@pysupply.com,Supply Planning,Supervisor - Supply Planning,+91-90000-00190,2025-08-14,active
+PYS-EMP-0191,Meera,Verma,meera.verma@pysupply.com,Procurement,Officer - Procurement,+91-90000-00191,2025-09-16,active
+PYS-EMP-0192,Dev,Bhat,dev.bhat@pysupply.com,Warehouse Operations,Coordinator - Warehouse Operations,+91-90000-00192,2024-11-08,active
+PYS-EMP-0193,Vivaan,Menon,vivaan.menon@pysupply.com,Supplier Relations,Analyst - Supplier Relations,+91-90000-00193,2025-10-28,active
+PYS-EMP-0194,Priya,Desai,priya.desai@pysupply.com,Logistics,Specialist - Logistics,+91-90000-00194,2024-12-26,active
+PYS-EMP-0195,Shreya,Desai,shreya.desai@pysupply.com,Sales Operations,Executive - Sales Operations,+91-90000-00195,2026-04-18,active
+PYS-EMP-0196,Aditi,Rao,aditi.rao@pysupply.com,Finance,Associate - Finance,+91-90000-00196,2023-09-04,active
+PYS-EMP-0197,Ira,Joshi,ira.joshi@pysupply.com,Information Technology,Lead - Information Technology,+91-90000-00197,2024-09-15,active
+PYS-EMP-0198,Dev,Mehta,dev.mehta@pysupply.com,Quality Assurance,Supervisor - Quality Assurance,+91-90000-00198,2025-06-16,active
+PYS-EMP-0199,Priya,Iyer,priya.iyer@pysupply.com,Human Resources,Officer - Human Resources,+91-90000-00199,2022-07-05,active
+PYS-EMP-0200,Varun,Verma,varun.verma@pysupply.com,Supply Planning,Coordinator - Supply Planning,+91-90000-00200,2024-11-09,active
+PYS-EMP-0201,Ira,Sharma,ira.sharma@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00201,2024-12-05,active
+PYS-EMP-0202,Ishaan,Rao,ishaan.rao@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00202,2025-05-05,active
+PYS-EMP-0203,Diya,Kulkarni,diya.kulkarni@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00203,2023-10-28,active
+PYS-EMP-0204,Saanvi,Gupta,saanvi.gupta@pysupply.com,Logistics,Associate - Logistics,+91-90000-00204,2024-09-28,active
+PYS-EMP-0205,Reyansh,Nair,reyansh.nair@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00205,2023-10-14,active
+PYS-EMP-0206,Varun,Iyer,varun.iyer@pysupply.com,Finance,Supervisor - Finance,+91-90000-00206,2025-09-14,active
+PYS-EMP-0207,Nikhil,Reddy,nikhil.reddy@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00207,2023-11-27,active
+PYS-EMP-0208,Shreya,Verma,shreya.verma@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00208,2024-01-08,active
+PYS-EMP-0209,Kabir,Desai,kabir.desai@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00209,2023-01-07,active
+PYS-EMP-0210,Aarav,Menon,aarav.menon@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00210,2022-06-09,active
+PYS-EMP-0211,Priya,Rao,priya.rao@pysupply.com,Procurement,Executive - Procurement,+91-90000-00211,2025-02-25,active
+PYS-EMP-0212,Advik,Mishra,advik.mishra@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00212,2022-12-24,active
+PYS-EMP-0213,Ananya,Iyer,ananya.iyer@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00213,2026-04-05,active
+PYS-EMP-0214,Kavya,Sharma,kavya.sharma@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00214,2023-06-12,active
+PYS-EMP-0215,Advik,Joshi,advik.joshi@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00215,2024-12-17,active
+PYS-EMP-0216,Diya,Reddy,diya.reddy@pysupply.com,Finance,Coordinator - Finance,+91-90000-00216,2024-12-02,active
+PYS-EMP-0217,Kavya,Pillai,kavya.pillai@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00217,2024-02-24,active
+PYS-EMP-0218,Aditi,Iyer,aditi.iyer@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00218,2025-07-15,active
+PYS-EMP-0219,Saanvi,Iyer,saanvi.iyer@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00219,2022-08-06,active
+PYS-EMP-0220,Priya,Joshi,priya.joshi@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00220,2025-06-01,active
+PYS-EMP-0221,Rohan,Gupta,rohan.gupta@pysupply.com,Procurement,Lead - Procurement,+91-90000-00221,2023-03-16,active
+PYS-EMP-0222,Advik,Verma,advik.verma@pysupply.com,Warehouse Operations,Supervisor - Warehouse Operations,+91-90000-00222,2022-03-01,active
+PYS-EMP-0223,Meera,Bhat,meera.bhat@pysupply.com,Supplier Relations,Officer - Supplier Relations,+91-90000-00223,2024-08-07,active
+PYS-EMP-0224,Aarav,Iyer,aarav.iyer@pysupply.com,Logistics,Coordinator - Logistics,+91-90000-00224,2023-05-09,active
+PYS-EMP-0225,Aditi,Joshi,aditi.joshi@pysupply.com,Sales Operations,Analyst - Sales Operations,+91-90000-00225,2023-03-06,active
+PYS-EMP-0226,Saanvi,Nair,saanvi.nair@pysupply.com,Finance,Specialist - Finance,+91-90000-00226,2024-05-28,active
+PYS-EMP-0227,Saanvi,Kulkarni,saanvi.kulkarni@pysupply.com,Information Technology,Executive - Information Technology,+91-90000-00227,2024-11-06,active
+PYS-EMP-0228,Aarav,Das,aarav.das@pysupply.com,Quality Assurance,Associate - Quality Assurance,+91-90000-00228,2024-12-14,active
+PYS-EMP-0229,Varun,Kulkarni,varun.kulkarni@pysupply.com,Human Resources,Lead - Human Resources,+91-90000-00229,2022-09-17,active
+PYS-EMP-0230,Arjun,Mehta,arjun.mehta@pysupply.com,Supply Planning,Supervisor - Supply Planning,+91-90000-00230,2024-11-18,active
+PYS-EMP-0231,Riya,Iyer,riya.iyer@pysupply.com,Procurement,Officer - Procurement,+91-90000-00231,2023-03-09,active
+PYS-EMP-0232,Riya,Joshi,riya.joshi@pysupply.com,Warehouse Operations,Coordinator - Warehouse Operations,+91-90000-00232,2023-07-09,active
+PYS-EMP-0233,Meera,Gupta,meera.gupta@pysupply.com,Supplier Relations,Analyst - Supplier Relations,+91-90000-00233,2026-05-08,active
+PYS-EMP-0234,Vivaan,Das,vivaan.das@pysupply.com,Logistics,Specialist - Logistics,+91-90000-00234,2026-01-07,active
+PYS-EMP-0235,Kabir,Kulkarni,kabir.kulkarni@pysupply.com,Sales Operations,Executive - Sales Operations,+91-90000-00235,2024-09-27,active
+PYS-EMP-0236,Nisha,Sharma,nisha.sharma@pysupply.com,Finance,Associate - Finance,+91-90000-00236,2022-10-07,active
+PYS-EMP-0237,Reyansh,Chatterjee,reyansh.chatterjee@pysupply.com,Information Technology,Lead - Information Technology,+91-90000-00237,2025-02-18,active
+PYS-EMP-0238,Vivaan,Kapoor,vivaan.kapoor@pysupply.com,Quality Assurance,Supervisor - Quality Assurance,+91-90000-00238,2025-10-21,active
+PYS-EMP-0239,Kiran,Nair,kiran.nair@pysupply.com,Human Resources,Officer - Human Resources,+91-90000-00239,2023-10-30,active
+PYS-EMP-0240,Shreya,Chatterjee,shreya.chatterjee@pysupply.com,Supply Planning,Coordinator - Supply Planning,+91-90000-00240,2024-01-15,active
+PYS-EMP-0241,Vivaan,Pillai,vivaan.pillai@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00241,2025-08-25,active
+PYS-EMP-0242,Kiran,Chatterjee,kiran.chatterjee@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00242,2024-03-13,active
+PYS-EMP-0243,Manav,Mehta,manav.mehta@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00243,2024-12-26,active
+PYS-EMP-0244,Tara,Bhat,tara.bhat@pysupply.com,Logistics,Associate - Logistics,+91-90000-00244,2025-06-14,active
+PYS-EMP-0245,Ishaan,Kapoor,ishaan.kapoor@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00245,2026-01-27,active
+PYS-EMP-0246,Rahul,Patel,rahul.patel@pysupply.com,Finance,Supervisor - Finance,+91-90000-00246,2025-01-09,active
+PYS-EMP-0247,Rahul,Das,rahul.das@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00247,2023-01-23,active
+PYS-EMP-0248,Ananya,Nair,ananya.nair@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00248,2022-11-08,active
+PYS-EMP-0249,Nisha,Chatterjee,nisha.chatterjee@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00249,2025-05-27,active
+PYS-EMP-0250,Sneha,Reddy,sneha.reddy@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00250,2025-02-03,active
+PYS-EMP-0251,Tara,Verma,tara.verma@pysupply.com,Procurement,Executive - Procurement,+91-90000-00251,2025-12-14,active
+PYS-EMP-0252,Kiran,Patel,kiran.patel@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00252,2022-11-10,active
+PYS-EMP-0253,Kavya,Chatterjee,kavya.chatterjee@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00253,2026-02-01,active
+PYS-EMP-0254,Rahul,Rao,rahul.rao@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00254,2022-10-22,active
+PYS-EMP-0255,Priya,Reddy,priya.reddy@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00255,2022-09-26,active
+PYS-EMP-0256,Nisha,Pillai,nisha.pillai@pysupply.com,Finance,Coordinator - Finance,+91-90000-00256,2025-09-07,active
+PYS-EMP-0257,Ira,Das,ira.das@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00257,2025-03-19,active
+PYS-EMP-0258,Vivaan,Mishra,vivaan.mishra@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00258,2022-05-06,active
+PYS-EMP-0259,Neha,Desai,neha.desai@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00259,2025-09-27,active
+PYS-EMP-0260,Priya,Kulkarni,priya.kulkarni@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00260,2022-03-12,active
+PYS-EMP-0261,Tara,Desai,tara.desai@pysupply.com,Procurement,Lead - Procurement,+91-90000-00261,2023-07-29,active
+PYS-EMP-0262,Shreya,Sharma,shreya.sharma@pysupply.com,Warehouse Operations,Supervisor - Warehouse Operations,+91-90000-00262,2023-09-06,active
+PYS-EMP-0263,Kabir,Sharma,kabir.sharma@pysupply.com,Supplier Relations,Officer - Supplier Relations,+91-90000-00263,2023-01-02,active
+PYS-EMP-0264,Neha,Gupta,neha.gupta@pysupply.com,Logistics,Coordinator - Logistics,+91-90000-00264,2022-10-13,active
+PYS-EMP-0265,Diya,Mehta,diya.mehta@pysupply.com,Sales Operations,Analyst - Sales Operations,+91-90000-00265,2023-07-02,active
+PYS-EMP-0266,Varun,Desai,varun.desai@pysupply.com,Finance,Specialist - Finance,+91-90000-00266,2025-01-11,active
+PYS-EMP-0267,Nikhil,Mehta,nikhil.mehta@pysupply.com,Information Technology,Executive - Information Technology,+91-90000-00267,2025-11-20,active
+PYS-EMP-0268,Aditi,Reddy,aditi.reddy@pysupply.com,Quality Assurance,Associate - Quality Assurance,+91-90000-00268,2024-01-01,active
+PYS-EMP-0269,Advik,Bhat,advik.bhat@pysupply.com,Human Resources,Lead - Human Resources,+91-90000-00269,2022-09-20,active
+PYS-EMP-0270,Manav,Kapoor,manav.kapoor@pysupply.com,Supply Planning,Supervisor - Supply Planning,+91-90000-00270,2024-07-25,active
+PYS-EMP-0271,Ira,Chatterjee,ira.chatterjee@pysupply.com,Procurement,Officer - Procurement,+91-90000-00271,2022-12-11,active
+PYS-EMP-0272,Kabir,Reddy,kabir.reddy@pysupply.com,Warehouse Operations,Coordinator - Warehouse Operations,+91-90000-00272,2023-01-18,active
+PYS-EMP-0273,Kabir,Pillai,kabir.pillai@pysupply.com,Supplier Relations,Analyst - Supplier Relations,+91-90000-00273,2025-11-20,active
+PYS-EMP-0274,Aditi,Kapoor,aditi.kapoor@pysupply.com,Logistics,Specialist - Logistics,+91-90000-00274,2022-04-20,active
+PYS-EMP-0275,Vivaan,Rao,vivaan.rao@pysupply.com,Sales Operations,Executive - Sales Operations,+91-90000-00275,2026-03-19,active
+PYS-EMP-0276,Tara,Mehta,tara.mehta@pysupply.com,Finance,Associate - Finance,+91-90000-00276,2023-01-16,active
+PYS-EMP-0277,Riya,Verma,riya.verma@pysupply.com,Information Technology,Lead - Information Technology,+91-90000-00277,2025-10-24,active
+PYS-EMP-0278,Tara,Rao,tara.rao@pysupply.com,Quality Assurance,Supervisor - Quality Assurance,+91-90000-00278,2022-11-12,active
+PYS-EMP-0279,Manav,Sharma,manav.sharma@pysupply.com,Human Resources,Officer - Human Resources,+91-90000-00279,2024-04-27,active
+PYS-EMP-0280,Pooja,Nair,pooja.nair@pysupply.com,Supply Planning,Coordinator - Supply Planning,+91-90000-00280,2025-08-06,active
+PYS-EMP-0281,Kiran,Kapoor,kiran.kapoor@pysupply.com,Procurement,Analyst - Procurement,+91-90000-00281,2025-06-29,active
+PYS-EMP-0282,Rohan,Das,rohan.das@pysupply.com,Warehouse Operations,Specialist - Warehouse Operations,+91-90000-00282,2024-09-29,active
+PYS-EMP-0283,Siddharth,Patel,siddharth.patel@pysupply.com,Supplier Relations,Executive - Supplier Relations,+91-90000-00283,2025-01-23,active
+PYS-EMP-0284,Diya,Joshi,diya.joshi@pysupply.com,Logistics,Associate - Logistics,+91-90000-00284,2022-03-01,active
+PYS-EMP-0285,Advik,Menon,advik.menon@pysupply.com,Sales Operations,Lead - Sales Operations,+91-90000-00285,2023-09-08,active
+PYS-EMP-0286,Priya,Nair,priya.nair@pysupply.com,Finance,Supervisor - Finance,+91-90000-00286,2023-03-29,active
+PYS-EMP-0287,Nisha,Nair,nisha.nair@pysupply.com,Information Technology,Officer - Information Technology,+91-90000-00287,2024-11-19,active
+PYS-EMP-0288,Riya,Reddy,riya.reddy@pysupply.com,Quality Assurance,Coordinator - Quality Assurance,+91-90000-00288,2024-01-16,active
+PYS-EMP-0289,Kabir,Kapoor,kabir.kapoor@pysupply.com,Human Resources,Analyst - Human Resources,+91-90000-00289,2025-01-16,active
+PYS-EMP-0290,Ishaan,Reddy,ishaan.reddy@pysupply.com,Supply Planning,Specialist - Supply Planning,+91-90000-00290,2022-07-08,active
+PYS-EMP-0291,Kavya,Singh,kavya.singh@pysupply.com,Procurement,Executive - Procurement,+91-90000-00291,2024-08-11,active
+PYS-EMP-0292,Varun,Gupta,varun.gupta@pysupply.com,Warehouse Operations,Associate - Warehouse Operations,+91-90000-00292,2025-10-25,active
+PYS-EMP-0293,Manav,Singh,manav.singh@pysupply.com,Supplier Relations,Lead - Supplier Relations,+91-90000-00293,2026-03-11,active
+PYS-EMP-0294,Kiran,Kulkarni,kiran.kulkarni@pysupply.com,Logistics,Supervisor - Logistics,+91-90000-00294,2024-04-13,active
+PYS-EMP-0295,Tara,Joshi,tara.joshi@pysupply.com,Sales Operations,Officer - Sales Operations,+91-90000-00295,2022-11-14,active
+PYS-EMP-0296,Kiran,Reddy,kiran.reddy@pysupply.com,Finance,Coordinator - Finance,+91-90000-00296,2023-10-27,active
+PYS-EMP-0297,Shreya,Kulkarni,shreya.kulkarni@pysupply.com,Information Technology,Analyst - Information Technology,+91-90000-00297,2022-10-26,active
+PYS-EMP-0298,Kiran,Joshi,kiran.joshi@pysupply.com,Quality Assurance,Specialist - Quality Assurance,+91-90000-00298,2026-01-03,active
+PYS-EMP-0299,Kiran,Gupta,kiran.gupta@pysupply.com,Human Resources,Executive - Human Resources,+91-90000-00299,2024-11-06,active
+PYS-EMP-0300,Tara,Nair,tara.nair@pysupply.com,Supply Planning,Associate - Supply Planning,+91-90000-00300,2022-03-24,active

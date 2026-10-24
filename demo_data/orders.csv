@@ -1,0 +1,181 @@
+﻿id,supplier_id,product_id,quantity,unit_cost,status,created_at,product_name,sku,supplier_name
+180,20,140,68,7096.43,cancelled,2026-10-24T07:53:06+00:00,Asset Tag · Model 140,PYS-00140,Summit Supply Partners 20
+179,22,10,37,16610.08,received,2026-10-24T07:53:06+00:00,Network Switch · Model 010,PYS-00010,BluePeak Supply Partners 22
+178,2,110,29,23561.37,submitted,2026-10-24T07:53:06+00:00,Precision Scale · Model 110,PYS-00110,Meridian Supply Partners 02
+177,21,171,62,232.02,draft,2026-10-24T07:53:06+00:00,Shipping Carton · Model 171,PYS-00171,Nimbus Supply Partners 21
+176,16,112,71,17227.56,cancelled,2026-10-24T07:53:06+00:00,ESD Gloves · Model 112,PYS-00112,Everest Supply Partners 16
+175,19,229,60,11927.18,received,2026-10-24T07:53:06+00:00,Packing Tape · Model 229,PYS-00229,Vertex Supply Partners 19
+174,10,94,22,15271.18,submitted,2026-10-24T07:53:06+00:00,Cable Kit · Model 094,PYS-00094,Meridian Supply Partners 10
+173,13,211,69,653.97,draft,2026-10-24T07:53:06+00:00,UPS · Model 211,PYS-00211,Nimbus Supply Partners 13
+172,3,21,38,2503.23,cancelled,2026-10-24T07:53:06+00:00,Bubble Wrap · Model 021,PYS-00021,Vertex Supply Partners 03
+171,16,88,40,3583.07,received,2026-10-24T07:53:06+00:00,ESD Gloves · Model 088,PYS-00088,Everest Supply Partners 16
+170,9,15,52,9656.2,submitted,2026-10-24T07:53:06+00:00,RFID Reader · Model 015,PYS-00015,Apex Supply Partners 09
+169,13,19,33,475.91,draft,2026-10-24T07:53:06+00:00,UPS · Model 019,PYS-00019,Nimbus Supply Partners 13
+168,12,156,25,7210.92,cancelled,2026-10-24T07:53:06+00:00,Label Roll · Model 156,PYS-00156,Summit Supply Partners 12
+167,19,229,45,11927.18,received,2026-10-24T07:53:06+00:00,Packing Tape · Model 229,PYS-00229,Vertex Supply Partners 19
+166,16,64,24,5389.59,submitted,2026-10-24T07:53:06+00:00,ESD Gloves · Model 064,PYS-00064,Everest Supply Partners 16
+165,13,163,70,22512.13,draft,2026-10-24T07:53:06+00:00,UPS · Model 163,PYS-00163,Nimbus Supply Partners 13
+164,4,220,16,18622.52,cancelled,2026-10-24T07:53:06+00:00,Safety Helmet · Model 220,PYS-00220,Summit Supply Partners 04
+163,22,106,50,17828.2,received,2026-10-24T07:53:06+00:00,Network Switch · Model 106,PYS-00106,BluePeak Supply Partners 22
+162,5,227,16,1180.37,submitted,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 227,PYS-00227,Nimbus Supply Partners 05
+161,20,92,44,14838.22,draft,2026-10-24T07:53:06+00:00,Asset Tag · Model 092,PYS-00092,Summit Supply Partners 20
+160,2,158,63,17827.07,cancelled,2026-10-24T07:53:06+00:00,Precision Scale · Model 158,PYS-00158,Meridian Supply Partners 02
+159,4,148,40,11606.6,received,2026-10-24T07:53:06+00:00,Safety Helmet · Model 148,PYS-00148,Summit Supply Partners 04
+158,13,211,43,653.97,submitted,2026-10-24T07:53:06+00:00,UPS · Model 211,PYS-00211,Nimbus Supply Partners 13
+157,5,179,26,5905.79,draft,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 179,PYS-00179,Nimbus Supply Partners 05
+156,22,82,5,6925.47,cancelled,2026-10-24T07:53:06+00:00,Network Switch · Model 082,PYS-00082,BluePeak Supply Partners 22
+155,5,107,44,15534.95,received,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 107,PYS-00107,Nimbus Supply Partners 05
+154,6,18,36,4514.21,submitted,2026-10-24T07:53:06+00:00,Portable SSD · Model 018,PYS-00018,BluePeak Supply Partners 06
+153,11,77,33,11577.78,draft,2026-10-24T07:53:06+00:00,Pallet Jack · Model 077,PYS-00077,Vertex Supply Partners 11
+152,2,62,44,1177.66,cancelled,2026-10-24T07:53:06+00:00,Precision Scale · Model 062,PYS-00062,Meridian Supply Partners 02
+151,18,150,12,24023.43,received,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 150,PYS-00150,Meridian Supply Partners 18
+150,22,226,12,1785.58,submitted,2026-10-24T07:53:06+00:00,Network Switch · Model 226,PYS-00226,BluePeak Supply Partners 22
+149,3,45,72,14143.21,draft,2026-10-24T07:53:06+00:00,Bubble Wrap · Model 045,PYS-00045,Vertex Supply Partners 03
+148,24,96,60,11048.37,cancelled,2026-10-24T07:53:06+00:00,Industrial Keyboard · Model 096,PYS-00096,Everest Supply Partners 24
+147,16,160,13,21902.86,received,2026-10-24T07:53:06+00:00,ESD Gloves · Model 160,PYS-00160,Everest Supply Partners 16
+146,12,156,45,7210.92,submitted,2026-10-24T07:53:06+00:00,Label Roll · Model 156,PYS-00156,Summit Supply Partners 12
+145,8,8,57,15679.71,draft,2026-10-24T07:53:06+00:00,Docking Station · Model 008,PYS-00008,Everest Supply Partners 08
+144,6,42,57,20293.02,cancelled,2026-10-24T07:53:06+00:00,Portable SSD · Model 042,PYS-00042,BluePeak Supply Partners 06
+143,1,103,45,5410.02,received,2026-10-24T07:53:06+00:00,Laptop · Model 103,PYS-00103,Apex Supply Partners 01
+142,1,175,70,611.35,submitted,2026-10-24T07:53:06+00:00,Laptop · Model 175,PYS-00175,Apex Supply Partners 01
+141,2,206,40,1844.73,draft,2026-10-24T07:53:06+00:00,Precision Scale · Model 206,PYS-00206,Meridian Supply Partners 02
+140,23,185,28,4643.58,cancelled,2026-10-24T07:53:06+00:00,Hand Truck · Model 185,PYS-00185,Synergy Supply Partners 23
+139,6,138,63,12345.44,received,2026-10-24T07:53:06+00:00,Portable SSD · Model 138,PYS-00138,BluePeak Supply Partners 06
+138,7,193,22,376.65,submitted,2026-10-24T07:53:06+00:00,Barcode Scanner · Model 193,PYS-00193,Synergy Supply Partners 07
+137,20,116,41,16076.77,draft,2026-10-24T07:53:06+00:00,Asset Tag · Model 116,PYS-00116,Summit Supply Partners 20
+136,6,18,64,4514.21,cancelled,2026-10-24T07:53:06+00:00,Portable SSD · Model 018,PYS-00018,BluePeak Supply Partners 06
+135,20,44,29,3356.68,received,2026-10-24T07:53:06+00:00,Asset Tag · Model 044,PYS-00044,Summit Supply Partners 20
+134,16,136,39,11693.18,submitted,2026-10-24T07:53:06+00:00,ESD Gloves · Model 136,PYS-00136,Everest Supply Partners 16
+133,16,184,67,13388.29,draft,2026-10-24T07:53:06+00:00,ESD Gloves · Model 184,PYS-00184,Everest Supply Partners 16
+132,8,224,38,534.67,cancelled,2026-10-24T07:53:06+00:00,Docking Station · Model 224,PYS-00224,Everest Supply Partners 08
+131,23,41,12,16185.44,received,2026-10-24T07:53:06+00:00,Hand Truck · Model 041,PYS-00041,Synergy Supply Partners 23
+130,18,126,35,3132.86,submitted,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 126,PYS-00126,Meridian Supply Partners 18
+129,9,39,26,25719.73,draft,2026-10-24T07:53:06+00:00,RFID Reader · Model 039,PYS-00039,Apex Supply Partners 09
+128,12,84,34,13175.23,cancelled,2026-10-24T07:53:06+00:00,Label Roll · Model 084,PYS-00084,Summit Supply Partners 12
+127,12,132,21,22499.73,received,2026-10-24T07:53:06+00:00,Label Roll · Model 132,PYS-00132,Summit Supply Partners 12
+126,18,126,32,3132.86,submitted,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 126,PYS-00126,Meridian Supply Partners 18
+125,11,125,59,18489.15,draft,2026-10-24T07:53:06+00:00,Pallet Jack · Model 125,PYS-00125,Vertex Supply Partners 11
+124,6,42,14,20293.02,cancelled,2026-10-24T07:53:06+00:00,Portable SSD · Model 042,PYS-00042,BluePeak Supply Partners 06
+123,17,71,48,3413.43,received,2026-10-24T07:53:06+00:00,Inventory Scanner · Model 071,PYS-00071,Apex Supply Partners 17
+122,3,165,12,1769.3,submitted,2026-10-24T07:53:06+00:00,Bubble Wrap · Model 165,PYS-00165,Vertex Supply Partners 03
+121,12,228,20,8002.58,draft,2026-10-24T07:53:06+00:00,Label Roll · Model 228,PYS-00228,Summit Supply Partners 12
+120,1,103,41,5410.02,cancelled,2026-10-24T07:53:06+00:00,Laptop · Model 103,PYS-00103,Apex Supply Partners 01
+119,11,221,40,234.23,received,2026-10-24T07:53:06+00:00,Pallet Jack · Model 221,PYS-00221,Vertex Supply Partners 11
+118,1,199,69,22223.55,submitted,2026-10-24T07:53:06+00:00,Laptop · Model 199,PYS-00199,Apex Supply Partners 01
+117,14,98,71,5885.85,draft,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 098,PYS-00098,BluePeak Supply Partners 14
+116,18,6,28,24054.89,cancelled,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 006,PYS-00006,Meridian Supply Partners 18
+115,2,206,13,1844.73,received,2026-10-24T07:53:06+00:00,Precision Scale · Model 206,PYS-00206,Meridian Supply Partners 02
+114,20,44,22,3356.68,submitted,2026-10-24T07:53:06+00:00,Asset Tag · Model 044,PYS-00044,Summit Supply Partners 20
+113,24,96,6,11048.37,draft,2026-10-24T07:53:06+00:00,Industrial Keyboard · Model 096,PYS-00096,Everest Supply Partners 24
+112,16,184,39,13388.29,cancelled,2026-10-24T07:53:06+00:00,ESD Gloves · Model 184,PYS-00184,Everest Supply Partners 16
+111,11,101,18,1571.56,received,2026-10-24T07:53:06+00:00,Pallet Jack · Model 101,PYS-00101,Vertex Supply Partners 11
+110,5,107,40,15534.95,submitted,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 107,PYS-00107,Nimbus Supply Partners 05
+109,4,196,36,25561.76,draft,2026-10-24T07:53:06+00:00,Safety Helmet · Model 196,PYS-00196,Summit Supply Partners 04
+108,7,169,33,276.59,cancelled,2026-10-24T07:53:06+00:00,Barcode Scanner · Model 169,PYS-00169,Synergy Supply Partners 07
+107,11,197,15,11836.43,received,2026-10-24T07:53:06+00:00,Pallet Jack · Model 197,PYS-00197,Vertex Supply Partners 11
+106,5,131,63,19969.0,submitted,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 131,PYS-00131,Nimbus Supply Partners 05
+105,7,145,48,13035.83,draft,2026-10-24T07:53:06+00:00,Barcode Scanner · Model 145,PYS-00145,Synergy Supply Partners 07
+104,12,60,11,5077.69,cancelled,2026-10-24T07:53:06+00:00,Label Roll · Model 060,PYS-00060,Summit Supply Partners 12
+103,16,160,9,21902.86,received,2026-10-24T07:53:06+00:00,ESD Gloves · Model 160,PYS-00160,Everest Supply Partners 16
+102,7,25,30,25906.58,submitted,2026-10-24T07:53:06+00:00,Barcode Scanner · Model 025,PYS-00025,Synergy Supply Partners 07
+101,6,234,35,2135.1,draft,2026-10-24T07:53:06+00:00,Portable SSD · Model 234,PYS-00234,BluePeak Supply Partners 06
+100,5,203,70,25948.7,cancelled,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 203,PYS-00203,Nimbus Supply Partners 05
+99,12,156,36,7210.92,received,2026-10-24T07:53:06+00:00,Label Roll · Model 156,PYS-00156,Summit Supply Partners 12
+98,14,122,16,1771.59,submitted,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 122,PYS-00122,BluePeak Supply Partners 14
+97,9,39,17,25719.73,draft,2026-10-24T07:53:06+00:00,RFID Reader · Model 039,PYS-00039,Apex Supply Partners 09
+96,16,40,8,8572.12,cancelled,2026-10-24T07:53:06+00:00,ESD Gloves · Model 040,PYS-00040,Everest Supply Partners 16
+95,5,107,57,15534.95,received,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 107,PYS-00107,Nimbus Supply Partners 05
+94,16,112,12,17227.56,submitted,2026-10-24T07:53:06+00:00,ESD Gloves · Model 112,PYS-00112,Everest Supply Partners 16
+93,7,97,53,14630.86,draft,2026-10-24T07:53:06+00:00,Barcode Scanner · Model 097,PYS-00097,Synergy Supply Partners 07
+92,13,115,25,3126.66,cancelled,2026-10-24T07:53:06+00:00,UPS · Model 115,PYS-00115,Nimbus Supply Partners 13
+91,12,156,4,7210.92,received,2026-10-24T07:53:06+00:00,Label Roll · Model 156,PYS-00156,Summit Supply Partners 12
+90,1,151,57,196.5,submitted,2026-10-24T07:53:06+00:00,Laptop · Model 151,PYS-00151,Apex Supply Partners 01
+89,15,225,24,16801.4,draft,2026-10-24T07:53:06+00:00,Wireless Access Point · Model 225,PYS-00225,Synergy Supply Partners 15
+88,18,198,11,3499.89,cancelled,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 198,PYS-00198,Meridian Supply Partners 18
+87,10,118,50,6655.47,received,2026-10-24T07:53:06+00:00,Cable Kit · Model 118,PYS-00118,Meridian Supply Partners 10
+86,13,139,35,783.62,submitted,2026-10-24T07:53:06+00:00,UPS · Model 139,PYS-00139,Nimbus Supply Partners 13
+85,5,155,61,22348.25,draft,2026-10-24T07:53:06+00:00,Desktop Monitor · Model 155,PYS-00155,Nimbus Supply Partners 05
+84,8,128,29,6258.64,cancelled,2026-10-24T07:53:06+00:00,Docking Station · Model 128,PYS-00128,Everest Supply Partners 08
+83,22,34,43,10892.47,received,2026-10-24T07:53:06+00:00,Network Switch · Model 034,PYS-00034,BluePeak Supply Partners 22
+82,24,144,4,11653.4,submitted,2026-10-24T07:53:06+00:00,Industrial Keyboard · Model 144,PYS-00144,Everest Supply Partners 24
+81,15,9,39,10970.92,draft,2026-10-24T07:53:06+00:00,Wireless Access Point · Model 009,PYS-00009,Synergy Supply Partners 15
+80,17,95,3,4150.84,cancelled,2026-10-24T07:53:06+00:00,Inventory Scanner · Model 095,PYS-00095,Apex Supply Partners 17
+79,8,152,19,12434.7,received,2026-10-24T07:53:06+00:00,Docking Station · Model 152,PYS-00152,Everest Supply Partners 08
+78,21,3,61,9082.44,submitted,2026-10-24T07:53:06+00:00,Shipping Carton · Model 003,PYS-00003,Nimbus Supply Partners 21
+77,4,172,73,20906.38,draft,2026-10-24T07:53:06+00:00,Safety Helmet · Model 172,PYS-00172,Summit Supply Partners 04
+76,8,128,19,6258.64,cancelled,2026-10-24T07:53:06+00:00,Docking Station · Model 128,PYS-00128,Everest Supply Partners 08
+75,16,136,73,11693.18,received,2026-10-24T07:53:06+00:00,ESD Gloves · Model 136,PYS-00136,Everest Supply Partners 16
+74,16,112,23,17227.56,submitted,2026-10-24T07:53:06+00:00,ESD Gloves · Model 112,PYS-00112,Everest Supply Partners 16
+73,11,149,72,12016.77,draft,2026-10-24T07:53:06+00:00,Pallet Jack · Model 149,PYS-00149,Vertex Supply Partners 11
+72,4,76,37,15031.76,cancelled,2026-10-24T07:53:06+00:00,Safety Helmet · Model 076,PYS-00076,Summit Supply Partners 04
+71,19,133,63,11497.98,received,2026-10-24T07:53:06+00:00,Packing Tape · Model 133,PYS-00133,Vertex Supply Partners 19
+70,1,103,46,5410.02,submitted,2026-10-24T07:53:06+00:00,Laptop · Model 103,PYS-00103,Apex Supply Partners 01
+69,6,138,65,12345.44,draft,2026-10-24T07:53:06+00:00,Portable SSD · Model 138,PYS-00138,BluePeak Supply Partners 06
+68,18,78,47,17196.4,cancelled,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 078,PYS-00078,Meridian Supply Partners 18
+67,13,19,54,475.91,received,2026-10-24T07:53:06+00:00,UPS · Model 019,PYS-00019,Nimbus Supply Partners 13
+66,16,208,56,18378.11,submitted,2026-10-24T07:53:06+00:00,ESD Gloves · Model 208,PYS-00208,Everest Supply Partners 16
+65,4,4,74,6987.71,draft,2026-10-24T07:53:06+00:00,Safety Helmet · Model 004,PYS-00004,Summit Supply Partners 04
+64,10,190,27,5665.69,cancelled,2026-10-24T07:53:06+00:00,Cable Kit · Model 190,PYS-00190,Meridian Supply Partners 10
+63,14,2,43,15236.15,received,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 002,PYS-00002,BluePeak Supply Partners 14
+62,16,112,3,17227.56,submitted,2026-10-24T07:53:06+00:00,ESD Gloves · Model 112,PYS-00112,Everest Supply Partners 16
+61,2,62,4,1177.66,draft,2026-10-24T07:53:06+00:00,Precision Scale · Model 062,PYS-00062,Meridian Supply Partners 02
+60,14,170,36,3825.81,cancelled,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 170,PYS-00170,BluePeak Supply Partners 14
+59,2,182,35,20330.43,received,2026-10-24T07:53:06+00:00,Precision Scale · Model 182,PYS-00182,Meridian Supply Partners 02
+58,17,95,21,4150.84,submitted,2026-10-24T07:53:06+00:00,Inventory Scanner · Model 095,PYS-00095,Apex Supply Partners 17
+57,18,30,12,4829.18,draft,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 030,PYS-00030,Meridian Supply Partners 18
+56,22,178,54,21532.17,cancelled,2026-10-24T07:53:06+00:00,Network Switch · Model 178,PYS-00178,BluePeak Supply Partners 22
+55,20,92,10,14838.22,received,2026-10-24T07:53:06+00:00,Asset Tag · Model 092,PYS-00092,Summit Supply Partners 20
+54,8,32,24,17202.9,submitted,2026-10-24T07:53:06+00:00,Docking Station · Model 032,PYS-00032,Everest Supply Partners 08
+53,20,188,35,5925.46,draft,2026-10-24T07:53:06+00:00,Asset Tag · Model 188,PYS-00188,Summit Supply Partners 20
+52,17,23,38,23020.83,cancelled,2026-10-24T07:53:06+00:00,Inventory Scanner · Model 023,PYS-00023,Apex Supply Partners 17
+51,17,167,46,11495.6,received,2026-10-24T07:53:06+00:00,Inventory Scanner · Model 167,PYS-00167,Apex Supply Partners 17
+50,7,145,30,13035.83,submitted,2026-10-24T07:53:06+00:00,Barcode Scanner · Model 145,PYS-00145,Synergy Supply Partners 07
+49,15,153,36,494.17,draft,2026-10-24T07:53:06+00:00,Wireless Access Point · Model 153,PYS-00153,Synergy Supply Partners 15
+48,10,190,67,5665.69,cancelled,2026-10-24T07:53:06+00:00,Cable Kit · Model 190,PYS-00190,Meridian Supply Partners 10
+47,9,207,63,23991.93,received,2026-10-24T07:53:06+00:00,RFID Reader · Model 207,PYS-00207,Apex Supply Partners 09
+46,20,44,22,3356.68,submitted,2026-10-24T07:53:06+00:00,Asset Tag · Model 044,PYS-00044,Summit Supply Partners 20
+45,11,77,7,11577.78,draft,2026-10-24T07:53:06+00:00,Pallet Jack · Model 077,PYS-00077,Vertex Supply Partners 11
+44,18,102,36,14701.9,cancelled,2026-10-24T07:53:06+00:00,Warehouse Tablet · Model 102,PYS-00102,Meridian Supply Partners 18
+43,14,194,50,7134.77,received,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 194,PYS-00194,BluePeak Supply Partners 14
+42,19,205,6,25711.04,submitted,2026-10-24T07:53:06+00:00,Packing Tape · Model 205,PYS-00205,Vertex Supply Partners 19
+41,9,111,63,18202.72,draft,2026-10-24T07:53:06+00:00,RFID Reader · Model 111,PYS-00111,Apex Supply Partners 09
+40,4,28,54,19040.47,cancelled,2026-10-24T07:53:06+00:00,Safety Helmet · Model 028,PYS-00028,Summit Supply Partners 04
+39,11,173,26,5506.22,received,2026-10-24T07:53:06+00:00,Pallet Jack · Model 173,PYS-00173,Vertex Supply Partners 11
+38,1,31,47,21615.38,submitted,2026-10-24T07:53:06+00:00,Laptop · Model 031,PYS-00031,Apex Supply Partners 01
+37,11,197,22,11836.43,draft,2026-10-24T07:53:06+00:00,Pallet Jack · Model 197,PYS-00197,Vertex Supply Partners 11
+36,10,142,40,24832.33,cancelled,2026-10-24T07:53:06+00:00,Cable Kit · Model 142,PYS-00142,Meridian Supply Partners 10
+35,10,166,29,11217.16,received,2026-10-24T07:53:06+00:00,Cable Kit · Model 166,PYS-00166,Meridian Supply Partners 10
+34,16,88,19,3583.07,submitted,2026-10-24T07:53:06+00:00,ESD Gloves · Model 088,PYS-00088,Everest Supply Partners 16
+33,17,119,70,23537.93,draft,2026-10-24T07:53:06+00:00,Inventory Scanner · Model 119,PYS-00119,Apex Supply Partners 17
+32,14,50,18,8227.91,cancelled,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 050,PYS-00050,BluePeak Supply Partners 14
+31,6,18,40,4514.21,received,2026-10-24T07:53:06+00:00,Portable SSD · Model 018,PYS-00018,BluePeak Supply Partners 06
+30,23,89,46,4858.58,submitted,2026-10-24T07:53:06+00:00,Hand Truck · Model 089,PYS-00089,Synergy Supply Partners 23
+29,10,70,74,15535.39,draft,2026-10-24T07:53:06+00:00,Cable Kit · Model 070,PYS-00070,Meridian Supply Partners 10
+28,1,223,6,3448.76,cancelled,2026-10-24T07:53:06+00:00,Laptop · Model 223,PYS-00223,Apex Supply Partners 01
+27,10,166,52,11217.16,received,2026-10-24T07:53:06+00:00,Cable Kit · Model 166,PYS-00166,Meridian Supply Partners 10
+26,20,116,50,16076.77,submitted,2026-10-24T07:53:06+00:00,Asset Tag · Model 116,PYS-00116,Summit Supply Partners 20
+25,2,206,63,1844.73,draft,2026-10-24T07:53:06+00:00,Precision Scale · Model 206,PYS-00206,Meridian Supply Partners 02
+24,1,127,43,6611.34,cancelled,2026-10-24T07:53:06+00:00,Laptop · Model 127,PYS-00127,Apex Supply Partners 01
+23,11,149,38,12016.77,received,2026-10-24T07:53:06+00:00,Pallet Jack · Model 149,PYS-00149,Vertex Supply Partners 11
+22,14,98,65,5885.85,submitted,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 098,PYS-00098,BluePeak Supply Partners 14
+21,19,13,12,1241.61,draft,2026-10-24T07:53:06+00:00,Packing Tape · Model 013,PYS-00013,Vertex Supply Partners 19
+20,13,163,49,22512.13,cancelled,2026-10-24T07:53:06+00:00,UPS · Model 163,PYS-00163,Nimbus Supply Partners 13
+19,20,212,45,3488.8,received,2026-10-24T07:53:06+00:00,Asset Tag · Model 212,PYS-00212,Summit Supply Partners 20
+18,17,167,60,11495.6,submitted,2026-10-24T07:53:06+00:00,Inventory Scanner · Model 167,PYS-00167,Apex Supply Partners 17
+17,22,202,55,21444.69,draft,2026-10-24T07:53:06+00:00,Network Switch · Model 202,PYS-00202,BluePeak Supply Partners 22
+16,14,50,37,8227.91,cancelled,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 050,PYS-00050,BluePeak Supply Partners 14
+15,13,187,61,7053.21,received,2026-10-24T07:53:06+00:00,UPS · Model 187,PYS-00187,Nimbus Supply Partners 13
+14,23,89,38,4858.58,submitted,2026-10-24T07:53:06+00:00,Hand Truck · Model 089,PYS-00089,Synergy Supply Partners 23
+13,20,188,72,5925.46,draft,2026-10-24T07:53:06+00:00,Asset Tag · Model 188,PYS-00188,Summit Supply Partners 20
+12,15,105,63,23238.47,cancelled,2026-10-24T07:53:06+00:00,Wireless Access Point · Model 105,PYS-00105,Synergy Supply Partners 15
+11,24,144,39,11653.4,received,2026-10-24T07:53:06+00:00,Industrial Keyboard · Model 144,PYS-00144,Everest Supply Partners 24
+10,10,46,71,24953.57,submitted,2026-10-24T07:53:06+00:00,Cable Kit · Model 046,PYS-00046,Meridian Supply Partners 10
+9,4,100,45,2042.94,draft,2026-10-24T07:53:06+00:00,Safety Helmet · Model 100,PYS-00100,Summit Supply Partners 04
+8,1,31,3,21615.38,cancelled,2026-10-24T07:53:06+00:00,Laptop · Model 031,PYS-00031,Apex Supply Partners 01
+7,20,212,9,3488.8,received,2026-10-24T07:53:06+00:00,Asset Tag · Model 212,PYS-00212,Summit Supply Partners 20
+6,14,98,66,5885.85,submitted,2026-10-24T07:53:06+00:00,Thermal Label Printer · Model 098,PYS-00098,BluePeak Supply Partners 14
+5,23,209,30,10056.88,draft,2026-10-24T07:53:06+00:00,Hand Truck · Model 209,PYS-00209,Synergy Supply Partners 23
+4,7,169,7,276.59,cancelled,2026-10-24T07:53:06+00:00,Barcode Scanner · Model 169,PYS-00169,Synergy Supply Partners 07
+3,20,164,27,19685.6,received,2026-10-24T07:53:06+00:00,Asset Tag · Model 164,PYS-00164,Summit Supply Partners 20
+2,21,195,15,23963.32,submitted,2026-10-24T07:53:06+00:00,Shipping Carton · Model 195,PYS-00195,Nimbus Supply Partners 21
+1,24,48,74,8015.77,draft,2026-10-24T07:53:06+00:00,Industrial Keyboard · Model 048,PYS-00048,Everest Supply Partners 24
